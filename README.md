@@ -1,12 +1,12 @@
 ### Welcome to the great dynasty of Code-Antonine
 <hr>
-Coming forward to making your security number one priority.
-Rome got destroyed because of the greed. Security is being sold because of the greed. I see a pattern here, doesn't amaze me.
-Congratulations to the giants of the social media for spying on us. Thanks Google!
-Welcome to my git repository.
-Soon. Freedom.
+Coming forward to making your security number one priority.<br>
+Rome got destroyed because of the greed. Security is being sold because of the greed. I see a pattern here, doesn't amaze me.<br>
+Congratulations to the giants of the social media for spying on us. Thanks Google!<br>
+Welcome to my git repository.<br>
+Soon. Freedom.<br>
 <hr>
-<img>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aurelius4&show_icons=true&theme=radical)</img>
+<img src="https://github-readme-stats.vercel.app/api?username=aurelius4&show_icons=true&theme=radical"></img>
 
 <!--
 **aurelius4/aurelius4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
