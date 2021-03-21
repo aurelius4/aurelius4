@@ -6,7 +6,7 @@ Congratulations to the giants of the social media for spying on us. Thanks Googl
 Welcome to my git repository.
 Soon. Freedom.
 <hr>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aurelius4&show_icons=true&theme=radical)
+<img>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aurelius4&show_icons=true&theme=radical)</img>
 
 <!--
 **aurelius4/aurelius4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
