@@ -5,7 +5,7 @@ Rome got destroyed because of the greed. Security is being sold because of the g
 Congratulations to the giants of the social media for spying on us. Thanks Google!<br>
 <br>
 <h3>Welcome to my git repository.</h3><br>
-Soon. Freedom.<br>
+Soon. Freedom.
 <hr>
 <img src="https://github-readme-stats.vercel.app/api?username=aurelius4&show_icons=true&theme=radical"></img>
 
