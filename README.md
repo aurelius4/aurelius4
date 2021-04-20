@@ -1,6 +1,6 @@
-### Welcome to myprofile
+### Welcome to Aurelius' profile
 <hr>
-<h3>Welcome to my git repository.</h3><br>
+<h3>Check out my open-source projects for more.</h3><br>
 <i>Soon.</i>
 <hr>
 <img src="https://github-readme-stats.vercel.app/api?username=aurelius4&show_icons=true&theme=radical"></img>
